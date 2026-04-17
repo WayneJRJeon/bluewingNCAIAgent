@@ -24,6 +24,16 @@
 - 이슈에서 Copilot을 assignee로 지정하면 Copilot이 자동으로 코드 변경을 수행하고 Pull Request를 생성합니다.
 - Pull Request를 리뷰하고 피드백을 남기면 Copilot이 반영합니다.
 
-### 5. 참고 자료
+### 5. Copilot CLI로 사내 서비스 개발하기
+
+Agent에게 웹 기반 사내 서비스 개발을 맡길 때의 가이드입니다.
+
+| 문서 | 설명 |
+|------|------|
+| [Copilot CLI Instruction 작성 가이드](docs/copilot-instruction-guide.md) | Instruction 7대 원칙 및 효과적인 지시 방법 |
+| [웹 사내 서비스 Instruction 템플릿](docs/web-service-instruction-template.md) | GitHub 이슈에 바로 붙여 쓸 수 있는 전체 템플릿 |
+| [Skills 추가 가이드](docs/skills-guide.md) | 반복 작업을 Skill로 표준화하는 방법 |
+
+### 6. 참고 자료
 - [GitHub Copilot 공식 문서](https://docs.github.com/copilot)
 - [VS Code Copilot 확장 프로그램](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
